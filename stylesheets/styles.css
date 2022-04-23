@@ -1,3 +1,6 @@
+.Barre {
+  position: fixed;
+}
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: rgb(222, 217, 188);
@@ -147,7 +150,7 @@ header.left-wall{
   border:1px solid #e0e0e0;
   width:300px;
   left:auto;
-  position: absolute;
+  position: fixed;
   bottom:600px;
   -webkit-font-smoothing:subpixel-antialiased;
 }

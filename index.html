@@ -15,7 +15,7 @@
   <body>
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      <div class="container px-4 px-lg-5">
+      <div class="Barre">
         <div class="topnav">
           <a class="active" href="#home">Home</a>
           <a href="#projects">Projects</a>
@@ -47,17 +47,19 @@
       <!-- Project -->
       <section class="projects">
         <h1>Projects</h1>
+            <!-- -->
             <h4>Numerical solution of a coupled thermal-neutronic problem.</h4>
             <p>Study of the operation of a nuclear reactor requiring the simultaneous use of two types of phenomena: one, thermal, and the other, neutronic. These two models can be written as a coupled system of two equations. 
-            Analytical solution of the system of two equations, which coupled together form a non-linear differential equation
+            Analytical solution of the system of two equations, which coupled together form a non-linear differential equation. <a href="Projects/DUGUEY_Martin_StageMAP5.pdf">Available here.</a> 
             </p>
-            <li> <a href="StageTech.html">Available here.</a> </li>
             <p>Supervisor: <a class="mx-2" href="https://www.math.univ-paris13.fr/~lafitte/wiki/index.php?n=Main.HomePage">Olivier Lafitte</a>, Director of the International Joint Unit 3457 and Researcher at LAGA UMR 7539, Sorbonne Paris Nord University.</p>
             <hr>
+
             <!-- -->
             <h4>Domain decomposition with Schwarz's algorithm.</h4>
-            <p>Study of both steady and unsteady advection-diffusion problems throughout Schwarz's algorithm iterations with Robin's boundary condition. Well-posedness study, numerical implementation and convergence's proof with an energy method. Work done with Imad BADDA.</p>
-            <li> <a href="ProjetDD.html">Available here.</a> </li>
+            <p>Study of both steady and unsteady advection-diffusion problems throughout Schwarz's algorithm iterations with Robin's boundary condition. Well-posedness study, numerical implementation and convergence's proof with an energy method. 
+              Work done with Imad BADDA. <a href="Projects/Projet_DD_MACS_2.pdf">Available here.</a> 
+            </p>
             <p>Supervisor: <a class="mx-2" href="https://www.math.univ-paris13.fr/~japhet/cjaphetmain.htm">Caroline Japhet</a>, CNRS, UMR 7539, LAGA, Université Sorbonne Paris Nord.</p>
             <hr class="large">
       </section>
@@ -65,11 +67,47 @@
       <!-- Exercises -->
       <section class="exercises">
         <h1>Exercises</h1>
-          <h4>Statistics and Quantification of uncertainties.</h4>
-          <li><a href="Projets/ProjetOT.html"><p class="mb-0 text-white-50">Beta distribution adjustment (with Nicolas HU).</p></a></li>
+          <!-- -->
+          <h4>MLP with Numpy for Call Option Pricing. (In progress)</h4>
+          <p>Creation of a multi-layer perceptron model with Numpy. The aim is to build the best model to fit the analytical price of a Call option using Black & Scholes hypothesis.</p>
+          Git Repository <a href="https://github.com/martinduguey/PricingCallMLP">available here.</a>
+          </p>
+          <hr>
+
+          <!-- -->
+          <h4>Beta distribution adjustment.</h4>
+          <p>In a context of quantification of uncertainties, we might need to estimate a distribution (Step C of a V&V-QU process, see <a class="mx-2" href="https://github.com/mbaudin47/otsupgalilee-eleve/blob/master/0-Deroulement/MethodologieIncertitude-EN_arial.pdf">here</a>). It is the case here, we started from measured data about relative humidity in
+          Bordeaux in 2018. The aim is to properly estimate the parameters of the distribution, in our case a Beta distribution. Work done with Nicolas HU.</p>
+          <p>Notebook <a href="Exercises/ExerciceOpenTURNS_HU_DUGUEY.html">available here.</a> 
+          Git Repository <a href="https://github.com/martinduguey/Projet-OT">available here.</a>
+          </p>
+          <hr>
+
+          <!-- -->
+          <h4>Simulation of an outbreak's spread.</h4>
+          <p>Algorithmic study and simulation of spread based on some Covid-19 data, using tools studied and described in course. This work doesn't involves PDE numerical resolution.</p>
+          <p>PDF <a href="Exercises/Projet__Algo.pdf">available here.</a> 
+          Git Repository <a href="https://github.com/martinduguey/Projet_AlgoComplexite">available here.</a>
+          </p>
+          <hr>
+
+          <!-- -->
+          <h4>A nuclear power plant game using Object-Oriented Programming.</h4>
+          <p>Introduction to Object-Oriented with C++ through a programming challenge. The implementation of nuclear power plant game from scratch based on specific terms and conditions. Work done with Nicolas HU, Imad BADDA, Christophe SIVE, Matthieu GRONDIN & Haris MEDJAHED.</p>
+          <p>Class Diagramm <a href="Exercises/classdiagram.jpeg">available here.</a> 
+          Documentation Doxygen <a href="Exercises/html_NuclearPPGame/index.html">available here.</a>
+          </p>
+          <hr>
+
+          <!-- -->
+          <h4>Payment of public transport's ticket with QRCode.</h4>
+          <p>Work followed by an oral presentation about QR Code. TIPE Competitive Exam for french Engineering Schools (CPGE).</p>
+          <p>Github Repository <a href="https://github.com/martinduguey/TIPE">available here.</a> 
+          </p>
+          <hr>
       </section>
       <footer>
-        <p>This project is maintained by <a href="http://github.com/orderedlist">Martin Duguey</a></p>
+        <p>Updated by <a href="https://github.com/martinduguey">Martin Duguey</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
