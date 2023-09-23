@@ -1,4 +1,4 @@
-# The Cayman theme
+<!-- # The Cayman theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
@@ -113,4 +113,12 @@ If you'd like to preview the theme locally (for example, in the process of propo
 
 ### Running tests
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work. -->
+
+# Personnal Page
+
+Hi! I'm Martin Duguey and this is my personnal page repository. You will find here the source code as well as the original documents and scripts shared on my website. 
+
+### Content
+
+This page use the Cayman theme Github template, `https://github.com/pages-themes/cayman``.
