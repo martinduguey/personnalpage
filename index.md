@@ -21,7 +21,7 @@ Use of several calibration procedure, including market surface interpolation wit
 Study of several parameters of the finite volume space discretization in a compressible steady Euler case and use of gaussian process regression and efficient global optimization 
 to find optimal values according to a specific criterion.
 
-[Available here](./Projects/Rapport_DUGUEY_Martin.pdf)
+[Available here](./Projects/Rapport_DUGUEY_Martin.pdf).
 
 Supervisor: [Jacques Peter](./https://www.onera.fr/en/staff/jacques-peter), Ph.D, accredidation to supervise research (HDR) – ONERA The French Aerospace Lab, DAAA Department, DEFI Unit.
 
@@ -29,29 +29,33 @@ Supervisor: [Jacques Peter](./https://www.onera.fr/en/staff/jacques-peter), Ph.D
 Study of the operation of a nuclear reactor requiring the simultaneous use of two types of phenomena: one, thermal, and the other, neutronic. These two models can be written as a coupled system of two equations. 
 Analytical solution of the system of two equations, which coupled together form a non-linear differential equation.
 
-[Available here](./Projects/DUGUEY_Martin_StageMAP5.pdf)
+[Available here](./Projects/DUGUEY_Martin_StageMAP5.pdf).
 
 Supervisor: [Olivier Lafitte](./https://www.math.univ-paris13.fr/~lafitte/wiki/index.php?n=Main.HomePage), Director of the International Joint Unit 3457 and Researcher at LAGA UMR 7539, Sorbonne Paris Nord University.
 
 ### Domain decomposition with Schwarz's algorithm
 Study of both steady and unsteady advection-diffusion problems throughout Schwarz's algorithm iterations with Robin's boundary condition. Well-posedness study, numerical implementation and convergence's proof with an energy method. Work done with [Imad BADDA](./https://www.linkedin.com/in/imad-badda/).
 
-[Available here](./Projects/Projet_DD_MACS_2.pdf)
+[Available here](./Projects/Projet_DD_MACS_2.pdf).
 
 Supervisor: [Caroline Japhet](./https://www.math.univ-paris13.fr/~japhet/cjaphetmain.htm), CNRS, UMR 7539, LAGA, Université Sorbonne Paris Nord.
 
 # Exercises
 
-1.  Numerical Finance.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Numerical Finance
+2.  Implementation of a multi-layer perceptron model with Numpy for Call Option Pricing
+3.  Beta distribution adjustment
+4.  Analysis of components failure's Data
+5.  Simulation of an outbreak's spread
+6.  A nuclear power plant game using Object-Oriented Programming
+7.  Payment of public transport's ticket with QRCode
 
 ### Numerical Finance
 Study of several europeans options (asian option, delayed start option). Computation of the estimation price of an american option with Longstaff-Schwartz's algorithm.
 
 [Jupyter Notebook](./Exercises/NumFi.html), [PDF](./Exercises/NumFi_BADDA_DUGUEY.pdf).
 
-### Implementation of a multi-layer perceptron model with Numpy for Call Option Pricing.
+### Implementation of a multi-layer perceptron model with Numpy for Call Option Pricing
 Creation of a multi-layer perceptron model with Numpy. The aim is to build the best model to fit the analytical price of 
 a Call option using a Black-Scholes framework.
 
@@ -83,4 +87,5 @@ Work done with [Nicolas HU](./https://www.linkedin.com/in/nicolas-hu/),
 
 ### Payment of public transport's ticket with QRCode
 Work followed by an oral presentation about QR Code. TIPE Competitive Exam for french Engineering Schools (CPGE).
-[Github Repository](./https://github.com/martinduguey/TIPE)
+
+[Github Repository](./https://github.com/martinduguey/TIPE).
