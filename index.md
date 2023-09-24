@@ -42,13 +42,20 @@ Supervisor: [Caroline Japhet](./https://www.math.univ-paris13.fr/~japhet/cjaphet
 
 # Exercises
 
-1.  Numerical Finance
-2.  Implementation of a multi-layer perceptron model with Numpy for Call Option Pricing
-3.  Beta distribution adjustment
-4.  Analysis of components failure's Data
-5.  Simulation of an outbreak's spread
-6.  A nuclear power plant game using Object-Oriented Programming
-7.  Payment of public transport's ticket with QRCode
+1.  American options pricing
+2.  Numerical Finance
+3.  Implementation of a multi-layer perceptron model with Numpy for Call Option Pricing
+4.  Beta distribution adjustment
+5.  Analysis of components failure's Data
+6.  Simulation of an outbreak's spread
+7.  A nuclear power plant game using Object-Oriented Programming
+8.  Payment of public transport's ticket with QRCode
+
+### American options pricing
+Study and development of the Longstaff-Schwartz's algorithm as well as tests cases on different options. Work done with 
+<a href="https://www.linkedin.com/in/chloé-amar-30569a199/">Chloé AMAR</a>.
+
+[PDF](./Exercises/American_Pricing_project.pdf).
 
 ### Numerical Finance
 Study of several europeans options (asian option, delayed start option). Computation of the estimation price of an american option with Longstaff-Schwartz's algorithm.
