@@ -3,10 +3,7 @@ layout: default
 ---
 After getting my french Baccalaureate in 2016, I decided to develop my scientific knowledge by studying Mathematics, Physics and Engineering Sciences 
 through intensive courses preparing for french Engineering Schools (CPGE). It allowed me to create an interest in Applied Mathematics and helped me 
-being received at Sup Galilée Engineering School in MACS programm, Applied Mathematics and Scientific Calculus. 
-Deeply interested in quantitative finance, I am currently working in a consulting firm that provides tools and analytics for 
-risk management (IPV, PVA and Reserves related topics) after graduating from the Université Paris Cité with a Master 2 degree in
-Random Modelling, Finance and Statistics (ex-DEA Laure ELIE).
+being received at Sup Galilée Engineering School in MACS programm, Applied Mathematics and Scientific Calculus. After graduating from the Université Paris Cité with a Master 2 degree in Random Modelling, Finance and Statistics (ex-DEA Laure ELIE), I had the opportunity to discover risk and accounting value (IPV, PVA and Reserves related topics) before focusing now on the pricing of Fixed Income derivatives.
 
 # Projects
 
@@ -23,7 +20,7 @@ to find optimal values according to a specific criterion.
 
 [Available here](./Projects/Rapport_DUGUEY_Martin.pdf).
 
-Supervisor: [Jacques Peter](./https://www.onera.fr/en/staff/jacques-peter), Ph.D, accredidation to supervise research (HDR) – ONERA The French Aerospace Lab, DAAA Department, DEFI Unit.
+Supervisor: <a href="https://www.onera.fr/en/staff/jacques-peter">Jacques Peter</a>, Ph.D, accredidation to supervise research (HDR) – ONERA The French Aerospace Lab, DAAA Department, DEFI Unit.
 
 ### Numerical solution of a coupled thermal-neutronic problem
 Study of the operation of a nuclear reactor requiring the simultaneous use of two types of phenomena: one, thermal, and the other, neutronic. These two models can be written as a coupled system of two equations. 
@@ -31,14 +28,15 @@ Analytical solution of the system of two equations, which coupled together form 
 
 [Available here](./Projects/DUGUEY_Martin_StageMAP5.pdf).
 
-Supervisor: [Olivier Lafitte](./https://www.math.univ-paris13.fr/~lafitte/wiki/index.php?n=Main.HomePage), Director of the International Joint Unit 3457 and Researcher at LAGA UMR 7539, Sorbonne Paris Nord University.
+Supervisor: <a href="https://www.math.univ-paris13.fr/~lafitte/wiki/index.php">Olivier Lafitte</a>, Director of the International Joint Unit 3457 and Researcher at LAGA UMR 7539, Sorbonne Paris Nord University.
 
 ### Domain decomposition with Schwarz's algorithm
-Study of both steady and unsteady advection-diffusion problems throughout Schwarz's algorithm iterations with Robin's boundary condition. Well-posedness study, numerical implementation and convergence's proof with an energy method. Work done with [Imad BADDA](./https://www.linkedin.com/in/imad-badda/).
+Study of both steady and unsteady advection-diffusion problems throughout Schwarz's algorithm iterations with Robin's boundary condition. Well-posedness study, numerical implementation and convergence's proof with an energy method. Work done with <a href="https://www.linkedin.com/in/imad-badda/">Imad Badda</a>.
 
 [Available here](./Projects/Projet_DD_MACS_2.pdf).
 
-Supervisor: [Caroline Japhet](./https://www.math.univ-paris13.fr/~japhet/cjaphetmain.htm), CNRS, UMR 7539, LAGA, Université Sorbonne Paris Nord.
+Supervisor: <a href="https://www.math.univ-paris13.fr/~japhet/cjaphetmain.htm">Caroline Japhet</a>, CNRS, UMR 7539, LAGA, Université Sorbonne Paris Nord.
+
 
 # Exercises
 
